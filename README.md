@@ -15,12 +15,12 @@ This Python script automates the process of fetching today's events from Google 
 Clone this repository to your local machine:
 
 ```
-git clone https://github.com/your-username/google-calendar-tasks-automation.git
+git clone https://github.com/bishwathakur/CalendarEventtoTask
 ```
 Navigate to the project directory:
 
 ```
-cd google-calendar-tasks-automation
+cd CalendarEventtoTask
 ```
 
 Install the required Python packages:
